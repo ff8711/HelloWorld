@@ -5,7 +5,7 @@ public class Hello {
 	String s="";
 	public static void main(String[] args){
 		System.out.println("Hello World");
-		System.out.println("add line 2");
+		System.out.println("day la noi dung da duoc thay doi");
 		
 	}
 }
